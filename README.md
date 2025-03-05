@@ -1,5 +1,6 @@
 # Age, Gender, and Race Estimation with ResNet
 Estimate age, gender, and ethnicity from facial images using a ResNet model.
+![image](https://github.com/user-attachments/assets/dd751a7c-64d3-4f8b-953f-93f10d4a9417)
 
 This project utilizes the **UTK Faces** dataset, by cropping the facial region, to train two **ResNet** models for facial attribute estimation:
 - **ResNet-50** for age estimation
